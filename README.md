@@ -7,8 +7,10 @@ Training Procedure :-
 python adversarial_reprogram.py
 ```
 Dataset: MNIST
+<br>
 Base Network: resnet-v2
+<br>
 Test Accuracy: 90.67
-
+<br>
 
 To initialise use resnet_v2_50.ckpt . Downloaded from [here](https://github.com/tensorflow/models/tree/master/research/slim)
